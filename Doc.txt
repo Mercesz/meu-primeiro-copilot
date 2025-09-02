@@ -1,0 +1,11 @@
+O Microsoft Copilot Studio é uma plataforma que permite criar agentes de IA capazes de interagir com usuários, realizar tarefas automatizadas e consumir informações de diferentes fontes. O objetivo deste desafio é explorar a criação do meu primeiro agente Copilot.
+
+O que aprendi:
+Criar um novo agente no Copilot Studio.
+
+Escolher um modelo de IA pré-selecionado ou com CION AI.
+
+Explorar a interface básica do estúdio: onde criar perguntas, respostas e fluxos simples.
+
+Salvar e testar o agente no ambiente do Copilot Studio.
+
